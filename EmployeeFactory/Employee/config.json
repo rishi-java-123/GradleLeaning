@@ -1,0 +1,12 @@
+[
+	{
+  		"factoryType": "com.rishi.learning.DeveloperEmployeeFactory",
+  		"location": "file:///G://EmployeeFactory//out//artifacts//Employeelib_jar//EmployeeLib.jar"
+	}
+	,
+	
+	{
+  		"factoryType": "com.rishi.learning.ArchitectEmployeeFactory",
+  		"location": "file:///G://EmployeeFactory//out//artifacts//Employeelib_jar//EmployeeLib.jar"
+	}
+]
